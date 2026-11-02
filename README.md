@@ -130,4 +130,3 @@ def factorielle(n):
 
 💾 [Python] Enregistrement automatique dans : test/factorielle.py
 ✅ Fichier test/factorielle.py mis à jour et enregistré avec succès !
-```
